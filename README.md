@@ -152,11 +152,11 @@
 
 
 ## 🌴 *`BOT-OWNER`*
-<a href="https://github.com/Barakabegaa"><img src="https://github.com/Barakabegaa.png" width="250" height="250" alt="Baraka"/></a>
+<a href="https://github.com/Barakabegaa"><img src="https://github.com/Barakabegaa.png" width="250" height="220" alt="Baraka"/></a>
 
 
 ## 🌴 *`MAIN-DEV`*
-<a href="https://github.com/ibrahimaitech"><img src="https://github.com/ibrahimaitech.png" width="250" height="250" alt="Ibrahim"/></a>
+<a href="https://github.com/ibrahimaitech"><img src="https://github.com/ibrahimaitech.png" width="250" height="220" alt="Ibrahim"/></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
