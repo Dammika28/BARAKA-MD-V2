@@ -34,7 +34,7 @@
   
 ## _`BARAKA-MD-V2 FEATURES`_
 
-| Feature                          | Description   | Feature                          | Description                                             | Available    | Version    |
+| Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
 | Multi-Device Support             | Operate the bot on multiple devices simultaneously      | ✅           | 2.0        |
 | AI Chat Bot                      | Bot Can Reply To Questions                              | ✅           | 2.0        |
@@ -45,8 +45,7 @@
 | Bot Cantrol Commands             | Cantrol Bot Without Opening Deploy Platform             | ✅           | 2.0        |
 | Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 2.0        |
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 2.0        |
-| Auto/View once commands     | remove photo and video from lock            | ✅           | 2.0    |                                             
-
+| Auto/View once commands     | remove photo and video from lock            | ✅           | 2.0    |
 ## _`INSTALLATION METHODS`_
 
 1. Fork the repo
