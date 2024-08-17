@@ -34,19 +34,20 @@
   
 ## _`BARAKA-MD-V2 FEATURES`_
 
-
-| Feature                          | Description                                             | Available    | Version    |
+| Feature                          | Description                                             | Available    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
-| Multi-Device Support             | Operate the bot on multiple devices simultaneously      | ✅           | 3.0        |
-| AI Chat Bot                      | Bot Can Reply To Questions                              | ✅           | 3.0        |
-| Downloader Commands              | Download various types of content from the internet     | ✅           | 3.0        |
-| Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 3.0        |
-| Logo Commands                    | Generate logos using specialized commands               | ✅           | 3.0        |
-| Anime Commands                   | Explore anime-related commands and features             | ✅           | 3.0        |
-| Bot Cantrol Commands             | Cantrol Bot Without Opening Deploy Platform             | ✅           | 3.0        |
-| Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 3.0        |
-| Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 3.0        |
-| Auto/View once commands     | remove photo and video from lock            | ✅           | 3.0    |
+| Multi-Device Support             | Operate the bot on multiple devices simultaneously      | ✅           |
+| AI Chat Bot                      | Bot Can Reply To Questions                              | ✅           |
+| Downloader Commands              | Download various types of content from the internet     | ✅           |       |
+| Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           |        |
+| Logo Commands                    | Generate logos using specialized commands               | ✅           | 
+| Anime Commands                   | Explore anime-related commands and features             | ✅           |
+| Bot Cantrol Commands             | Cantrol Bot Without Opening Deploy Platform             | ✅           |
+| Various Games                    | Enjoy a variety of games within the bot                 | ✅           |
+| Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           |       |
+| Auto/View once commands     | remove photo an
+ video from lock            | ✅           |
+                                             
 
 
 ## _`INSTALLATION METHODS`_
